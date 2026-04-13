@@ -73,7 +73,7 @@ player.Play();
 
 
 ![The Screenshot below shows how the users input will be executed/shown to them.]
-<img width="1103" height="570" alt="chatbot-preview" src="https://github.com/user-attachments/assets/c75a93b8-1602-446b-900f-4ec21d738150" />
+
 
 
 
