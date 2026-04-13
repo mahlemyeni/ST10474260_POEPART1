@@ -72,8 +72,10 @@ SoundPlayer player = new SoundPlayer("greeting.wav");
 player.Play();
 
 
-![The Screenshot below shows how the users input will be executed/shown to them.] 
-<img width="1103" height="570" alt="Screenshot 2026-04-13 140324" src="https://github.com/user-attachments/assets/dfe8071d-8fb5-4471-af65-bb79ee131417" />
+![The Screenshot below shows how the users input will be executed/shown to them.]
+<img width="1103" height="570" alt="chatbot-preview" src="https://github.com/user-attachments/assets/c75a93b8-1602-446b-900f-4ec21d738150" />
+
+
 
 
 
