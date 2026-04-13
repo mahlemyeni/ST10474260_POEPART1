@@ -57,16 +57,7 @@ The chatbot uses a **menu-driven interface** instead of free-text parsing, makin
 3. Build the solution  
 4. Run the program 
 ---
-## Optional Audio Feature
-To enable the greeting sound:
-
-1. Add a `.wav` file (e.g., `greeting.wav`) to your project folder  
-2. Uncomment the following lines in `AudioPlayer.cs`:
-```csharp
-SoundPlayer player = new SoundPlayer("greeting.wav");
-player.Play();
----
-##
+##Output
 ![The Screenshot below shows how the users input will be executed/shown to them.]
 [chatbot-preview](<img width="1103" height="570" alt="chatbot-preview" src="https://github.com/user-attachments/assets/e184bc6e-5242-4d91-a8f6-90597c5f93d0" />)
 
