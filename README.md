@@ -51,6 +51,8 @@ The chatbot uses a **menu-driven interface** instead of free-text parsing, makin
 - Visual Studio or any C# IDE  
 - .NET SDK installed  
 
+---
+
 ### Steps:
 1. Open the project in Visual Studio  
 2. Add all `.cs` files to the project  
