@@ -57,11 +57,8 @@ The chatbot uses a **menu-driven interface** instead of free-text parsing, makin
 2. Add all `.cs` files to the project  
 3. Build the solution  
 4. Run the program 
-
 ---
-
 ## Optional Audio Feature
-
 To enable the greeting sound:
 
 1. Add a `.wav` file (e.g., `greeting.wav`) to your project folder  
@@ -70,8 +67,8 @@ To enable the greeting sound:
 ```csharp
 SoundPlayer player = new SoundPlayer("greeting.wav");
 player.Play();
-
-
+---
+##
 ![The Screenshot below shows how the users input will be executed/shown to them.]
 
 
