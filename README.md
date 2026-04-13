@@ -57,9 +57,9 @@ The chatbot uses a **menu-driven interface** instead of free-text parsing, makin
 3. Build the solution  
 4. Run the program 
 ---
-##Output
+### Output
 ![The Screenshot below shows how the users input will be executed/shown to them.]
-[chatbot-preview](<img width="1103" height="570" alt="chatbot-preview" src="https://github.com/user-attachments/assets/e184bc6e-5242-4d91-a8f6-90597c5f93d0" />)
+[chatbot-preview](<https://github.com/user-attachments/assets/e184bc6e-5242-4d91-a8f6-90597c5f93d0)
 
 
 
