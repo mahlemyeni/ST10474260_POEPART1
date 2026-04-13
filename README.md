@@ -71,9 +71,10 @@ To enable the greeting sound:
 SoundPlayer player = new SoundPlayer("greeting.wav");
 player.Play();
 
-##
+
 ![The Screenshot below shows how the users input will be executed/shown to them.] 
-(<img width="1103" height="570" alt="Screenshot 2026-04-13 140324" src="https://github.com/user-attachments/assets/8381edd3-b573-4e20-94b9-9ac668e79c52" />)
+<img width="1103" height="570" alt="Screenshot 2026-04-13 140324" src="https://github.com/user-attachments/assets/dfe8071d-8fb5-4471-af65-bb79ee131417" />
+
 
 
 
