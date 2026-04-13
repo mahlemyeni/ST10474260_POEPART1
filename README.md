@@ -10,7 +10,6 @@ Its purpose is to educate users about basic cybersecurity practices such as:
 - Safe browsing   
 
 The chatbot uses a **menu-driven interface** instead of free-text parsing, making it structured, user-friendly, and suitable for learning environments.
-
 ---
 
 ## Features
@@ -63,13 +62,13 @@ To enable the greeting sound:
 
 1. Add a `.wav` file (e.g., `greeting.wav`) to your project folder  
 2. Uncomment the following lines in `AudioPlayer.cs`:
-
 ```csharp
 SoundPlayer player = new SoundPlayer("greeting.wav");
 player.Play();
 ---
 ##
 ![The Screenshot below shows how the users input will be executed/shown to them.]
+[chatbot-preview](<img width="1103" height="570" alt="chatbot-preview" src="https://github.com/user-attachments/assets/e184bc6e-5242-4d91-a8f6-90597c5f93d0" />)
 
 
 
